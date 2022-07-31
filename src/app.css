@@ -1,0 +1,60 @@
+:root {
+  --saturated-blue: #666CA3;
+  --dark-blue: #13183F;
+  --gray: #83869A;
+  --pink: #F74780;
+  --saturated-pink: #FFA7C3;
+  --white: #FFFFFF;
+  --orange: #FF6F48;
+  --pink-gradient: #F02AA6;
+  --blue-gradient: #4851FF;
+}
+
+* {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  min-height: 100vh;
+  position: relative;
+  background: linear-gradient(var(--white) 50%, #F0F1FF);
+}
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+h1 {
+  font-size: 56px;
+  line-height: 70px;
+  color: var(--dark-blue);
+  font-weight: 800;
+  margin: 0px
+}
+
+h2 {
+  font-size: 32px;
+  line-height: 40px;
+  color: var(--white);
+  font-weight: 800;
+  margin: 0px
+}
+
+h3 {
+  font-size: 24px;
+  line-height: 28px;
+  color: var(--dark-blue);
+  font-weight: 800;
+  margin: 0px
+}
+
+p {
+  color: var(--gray);
+  font-size: 18px;
+  line-height: 28px;
+  /* letter-spacing: 1px; */
+  font-weight: 500;
+}
