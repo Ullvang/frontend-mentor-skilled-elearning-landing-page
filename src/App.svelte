@@ -118,6 +118,7 @@
 
   p {
     margin-bottom: 40px;
+    margin-top: 29px;
   }
 
   /* .check-out {

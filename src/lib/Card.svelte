@@ -40,6 +40,6 @@
     }
     img {
         position: absolute;
-        top: -28px;
+        top: -24px;
     }
 </style>
