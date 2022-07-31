@@ -1,6 +1,6 @@
 # Svelte + Vite
 
-This template should help get you started developing with Svelte in Vite.
+This site was created with Svelte and Vite.
 
 
 # Frontend Mentor - Skilled e-learning landing page
@@ -9,7 +9,7 @@ This template should help get you started developing with Svelte in Vite.
 
 ## Welcome! 👋
 
-# This project was created with Next.js and TypeScript
+# This project was created with Svelte and JavaScript
 
 I used Svelte and JavaScript for this project because it is technologies I want to learn.
 The site was developed as desktop first.

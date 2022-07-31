@@ -35,8 +35,9 @@
         bottom: 40px;
     }
     p {
+        margin: 24px 0px;
         /* font-weight: 500; */
-        letter-spacing: 0;
+        /* letter-spacing: 0; */
     }
     img {
         position: absolute;
